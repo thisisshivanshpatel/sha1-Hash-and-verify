@@ -1,6 +1,6 @@
 {
   "name": "sha1-hash-and-verify",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This package is used for sha1 hashing and verifying the hashed data",
   "main": "index.js",
   "scripts": {

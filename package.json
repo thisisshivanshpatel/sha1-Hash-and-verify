@@ -1,0 +1,27 @@
+{
+  "name": "sha1-hash-and-verify",
+  "version": "1.0.0",
+  "description": "This package is used for sha1 hashing and verifying the hashed data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisshivanshpatel/sha1-Hash-and-verify.git"
+  },
+  "keywords": [
+    "sha1-hash-and-verify",
+    "sha1",
+    "hash",
+    "bcrypt",
+    "jsonwebtoken",
+    "crypto-js"
+  ],
+  "author": "shivansh patel <shivanshpatel.1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisisshivanshpatel/sha1-Hash-and-verify/issues"
+  },
+  "homepage": "https://github.com/thisisshivanshpatel/sha1-Hash-and-verify#readme"
+}
